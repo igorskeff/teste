@@ -6,8 +6,6 @@ modificado1
 
 function teste1(){
 	ramo1
-	continua teste
-	teste2
 }
 
 function teste2(){
