@@ -5,7 +5,7 @@ modificado1
 
 
 function teste1(){
-	modificado1
+	ramo1
 }
 
 function teste2(){
