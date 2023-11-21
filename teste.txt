@@ -8,5 +8,4 @@ function teste1(){
 }
 
 function teste2(){
-	modificado2
 }
