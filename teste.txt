@@ -6,6 +6,10 @@ modificado1
 
 function teste1(){
 	ramo1
+	teste1
+	continua
+
+	...
 }
 
 function teste2(){
