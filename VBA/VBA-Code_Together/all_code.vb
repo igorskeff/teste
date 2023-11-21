@@ -10,7 +10,7 @@ Option Explicit
 Option Explicit
 
 Private Sub exemplo1()
-
+    MsgBox "teste1"
 End Sub
 
 Private Sub exemplo2()
@@ -116,6 +116,8 @@ Sub GitSave()
     ExportModules
     PrintAllCode
     PrintAllContainers
+    
+    MsgBox "Arquivos criados com sucesso"
     
 End Sub
  
