@@ -1,3 +1,11 @@
 teste 
 modificado0
 modificado1
+
+
+
+function teste1(){
+}
+
+function teste2(){
+}
