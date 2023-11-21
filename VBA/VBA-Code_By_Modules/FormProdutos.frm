@@ -16,7 +16,7 @@ Attribute VB_Exposed = False
 Option Explicit
 
 Private Sub exemplo1()
-
+    MsgBox "teste1"
 End Sub
 
 Private Sub exemplo2()
