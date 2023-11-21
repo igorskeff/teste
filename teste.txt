@@ -10,4 +10,8 @@ function teste1(){
 
 function teste2(){
 	ramo2
+	teste2
+	continua
+
+	...
 }
